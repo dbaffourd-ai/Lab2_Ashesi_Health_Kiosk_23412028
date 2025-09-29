@@ -1,1 +1,3 @@
-# Lab2_Ashesi_Health_Kiosk_23412028
+Davis Baffour Addo
+23412028
+Lab 2
