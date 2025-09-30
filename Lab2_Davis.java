@@ -117,7 +117,7 @@ public class AshesiHealthKiosk {
         char b = Character.toUpperCase(name.charAt(0));
         char shifted = (char)('A' + (b - 'A' + 2) % 26);
 
-        String lastTwo = id.substring(3); // last two chars
+        String lastTwo = id.substring(3); 
         String display = shifted + lastTwo + "-" + roundedMetric;
         System.out.println("Display Code: " + display);
 
